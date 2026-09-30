@@ -213,4 +213,4 @@ Depth Hunter is provided as the full free version with all features and updates 
 Dive into the world of spearfishing today! Download Depth Hunter and enjoy an exhilarating underwater adventure!
 
 ---
-**Last updated:** 2026-09-29 21:14:10 UTC
+**Last updated:** 2026-09-30 01:00:09 UTC
